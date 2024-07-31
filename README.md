@@ -1,1 +1,1 @@
-<h1>Matplotlib Solutions</h1>
+<h1 align="center">Matplotlib Solutions</h1>
